@@ -9,7 +9,7 @@
 
 ## **Keywords about ME**
 
-  #Data #Passion #KPMG #Lighthouse #Data Science #ML/DL #Modeler
+####  #Data #Passion #KPMG #Lighthouse #Data Science #ML/DL #Modeler
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shoman2.github.io/)](https://shoman2.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tae-you-kim-5204184b/)](https://www.linkedin.com/in/tae-you-kim-5204184b/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tae.y.kim.56)](https://www.facebook.com/tae.y.kim.56) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyou0923@gmail.com)](mailto:kimtaeyou0923@gmail.com)
 	
