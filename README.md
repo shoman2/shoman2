@@ -1,4 +1,4 @@
-## **Data Scientist**
+# **Data Scientist**
 
 - Enjoying Data Handling as well as Modeling
 - Data Analytics Planning is fun :)
