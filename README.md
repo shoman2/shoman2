@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### **Data Scientist**
+
+- Enjoying Data Handling as well as Modeling
+- Data Analytics Planning is fun :)
+
+#### **Keywords about ME**
+
+  #Data #Passion #Planning #Business #Accounting #KPMG #Lighthouse
 <!--
 **shoman2/shoman2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
