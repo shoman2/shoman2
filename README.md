@@ -5,7 +5,7 @@
 
 
 - Enjoying Data Handling as well as Modeling
-- Data Analytics Planning is fun :)
+- Enjoying cutting through the edges regarding ML/DL :)
 
 ## **Keywords about ME**
 
