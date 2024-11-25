@@ -1,6 +1,6 @@
 
 
-# **Data Scientist** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+# [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
   [![Tae You's github stats](https://github-readme-stats.vercel.app/api?username=shoman2)](https://github.com/shoman2/github-readme-stats)
 
 
@@ -9,7 +9,6 @@
 
 ## **Keywords about ME**
 
-####  #Data #Passion #KPMG #Lighthouse #Data Science #ML/DL #Modeler
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shoman2.github.io/)](https://shoman2.github.io/)[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/taeyoukim)](https://www.kaggle.com/taeyoukim)
 [![Mendeley](https://img.shields.io/badge/Dacon-151F5D?style=flat-square&logo=Mendeley&logoColor=white&link=https://dacon.io/myprofile/403014/competition/)](https://dacon.io/myprofile/403014/competition/)
