@@ -1,8 +1,6 @@
 
 
-# [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-  [![Tae You's github stats](https://github-readme-stats.vercel.app/api?username=shoman2)](https://github.com/shoman2/github-readme-stats)
-
+# Hi !
 
 - Enjoying Data Handling as well as Modeling
 - Enjoying cutting through the edges regarding ML/DL :)
