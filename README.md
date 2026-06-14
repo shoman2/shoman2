@@ -17,7 +17,7 @@
 
 ```python
 class AIEngineer:
-    name       = "Kim Taeyou (shoman2)"
+    name       = "TAE YOU KIM (shoman2)"
     focus      = ["AI Agent Systems", "LLM Harness Engineering", "Workflow Automation"]
     stack      = ["Python", "Claude SDK", "JavaScript", "pandas", "sklearn"]
     current    = "Building production-grade multi-agent exam authoring harness"
@@ -25,7 +25,7 @@ class AIEngineer:
 ```
 
 **AI Agent Harness** 전문 엔지니어. 복잡한 업무 흐름을 **오케스트레이터 → 전문 에이전트 → 검증 루프** 구조로 자동화합니다.  
-행정안전부·해양수산인재개발원 등 공공기관 대상 LLM 기반 자동화 시스템 구축 경험 보유.
+행정안전부·해양수산인재개발원 등 공공기관 대상 LLM 기반 자동화 시스템 설계/구축/컨설팅 경험 보유.
 
 ---
 
@@ -127,22 +127,6 @@ class AIEngineer:
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shoman2&theme=onestar&no-frame=true&row=1&column=7&margin-w=4" />
-
-</div>
-
----
-
-## 🌊 Contribution
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shoman2/shoman2/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
